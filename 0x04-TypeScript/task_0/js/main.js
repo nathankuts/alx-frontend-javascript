@@ -1,8 +1,8 @@
 // create two students
 var student1 = {
-    firstName: 'Terry',
-    lastName: 'Sophia',
-    age: 20,
+    firstName: 'Nathan',
+    lastName: 'Kush',
+    age: 30,
     location: 'New York'
 };
 var student2 = {
